@@ -1,0 +1,145 @@
+{
+  "name": "Riley Sinema",
+  "title": "Graduate Student at BYU",
+  "about": "I am a graduate student at Brigham Young Univeristy studying computer science. I have experience with full stack development, data science, and machine learning.",
+  "skills": ["Python", "C#", "Machine Learning", "Docker"],
+  "projects": [
+    {
+      "title": "Researching Deep Learning Calibration",
+      "description": "Creating a new calibration method for deep learning models that is able to evaluate uncertainty on a per instance basis.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/spencermyoung513/probcal"
+        },
+        {
+          "text": "ArXiv",
+          "url": "https://arxiv.org/abs/2405.12412"
+        }
+      ],
+      "skills": ["Python", "Deep Learning", "Research", "PyTorch"]
+    },
+    {
+      "title": "EBook Vector Database",
+      "description": "A vector database that allows me to query all the eBooks on my machine based on a natural language query.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/sentence-transformer-lab"
+        }
+      ],
+      "skills": ["Python", "Docker", "Natural Language Processing", "SQL"]
+    },
+    {
+      "title": "Personalized RAG Chatbot",
+      "description": "A RAG chatbot that is able to answer questions about me based on data from my resume, projects, transcripts, and other sources.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": ""
+        },
+        {
+          "text": "Demo",
+          "url": "https://nlp.rsinema.net"
+        }
+      ],
+      "skills": [
+        "Natural Language Processing",
+        "LLMs",
+        "RAG",
+        "Python",
+        "Docker"
+      ]
+    },
+    {
+      "title": "Gym Tracker Web App",
+      "description": "Group project lead by me to create a web app that allows users to track their gym progress and create custom workout plans.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/gym-app"
+        }
+      ],
+      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"]
+    }
+  ],
+  "timeline": [
+    {
+      "title": "Teaching Assistant for CS 452 Concepts of Database Design",
+      "organization": "Brigham Young University",
+      "location": "Provo, UT",
+      "startDate": "September 2024",
+      "endDate": "Present",
+      "type": "work",
+      "description": [
+        "Assisting students in learning about database design",
+        "Assisting in teaching database systems"
+      ],
+      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+    },
+    {
+      "title": "Graduate Student",
+      "organization": "Brigham Young University",
+      "location": "Provo, UT",
+      "startDate": "2024",
+      "endDate": "Present",
+      "type": "education",
+      "description": [
+        "Conducting research in deep learning calibration and uncertainty estimation",
+        "Relevant coursework: Natural Language Processing, Adv Software Engineering"
+      ],
+      "technologies": [
+        "Python",
+        "LLMs",
+        "Natural Language Processing",
+        "PyTorch",
+        "Deep Learning",
+        "Research"
+      ]
+    },
+    {
+      "title": "Full Stack Development Intern",
+      "organization": "Marching Order",
+      "location": "Remote",
+      "startDate": "May 2024",
+      "endDate": "August 2024",
+      "type": "work",
+      "description": [
+        "Worked with senior engineers to refactor entire legacy codebase from .NET Framework to .NET Core",
+        "Collaborated with senior engineers on architecture decisions for the refactor"
+      ],
+      "technologies": ["C#", "Azure DevOps", "SQL", ".NET"]
+    },
+    {
+      "title": "Teaching Assistant for CS 452 Concepts of Database Design",
+      "organization": "Brigham Young University",
+      "location": "Provo, UT",
+      "startDate": "January 2024",
+      "endDate": "April 2024",
+      "type": "work",
+      "description": [
+        "Assisted students in learning about database design",
+        "Created interactive labs to help students learn database systems"
+      ],
+      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+    },
+    {
+      "title": "Bachelor's in Computer Science",
+      "organization": "Brigham Young University",
+      "location": "Provo, UT",
+      "startDate": "2020",
+      "endDate": "2024",
+      "type": "education",
+      "description": [
+        "Focus on Machine Learning and Software Engineering",
+        "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
+      ],
+      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
+    }
+  ],
+  "social": {
+    "github": "https://github.com/rsinema",
+    "linkedin": "https://linkedin.com/in/rileysinema",
+    "email": "rsinema@byu.edu"
+  }
+}
