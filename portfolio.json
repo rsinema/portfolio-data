@@ -6,10 +6,26 @@
     "Python",
     "C#",
     "Machine Learning",
+    "Software Engineering",
     "Docker",
     "NLP",
+    "LLMs",
+    "Deep Learning",
+    "Research",
+    "SQL",
+    "NoSQL",
     "MLOps",
-    "AWS"
+    "AWS",
+    "Azure DevOps",
+    "Blazor",
+    "MongoDB",
+    "Redis",
+    "neo4j",
+    "React",
+    "TypeScript",
+    "Agile",
+    "DevOps",
+    "Computer Vision"
   ],
   "projects": [
     {
@@ -25,12 +41,7 @@
           "url": "https://arxiv.org/abs/2405.12412"
         }
       ],
-      "skills": [
-        "Python",
-        "Deep Learning",
-        "Research",
-        "PyTorch"
-      ]
+      "skills": ["Python", "Deep Learning", "Research", "PyTorch"]
     },
     {
       "title": "EBook Vector Database",
@@ -45,6 +56,7 @@
         "Python",
         "Docker",
         "Natural Language Processing",
+        "Vector Databases",
         "SQL"
       ]
     },
@@ -78,14 +90,7 @@
           "url": "https://github.com/rsinema/gym-app"
         }
       ],
-      "skills": [
-        "C#",
-        ".NET",
-        "Blazor",
-        "MongoDB",
-        "DevOps",
-        "Agile"
-      ]
+      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"]
     }
   ],
   "timeline": [
@@ -100,14 +105,7 @@
         "Assisting students in learning about database design",
         "Assisting in teaching database systems"
       ],
-      "technologies": [
-        "SQL",
-        "Python",
-        "NoSQL",
-        "MongoDB",
-        "Redis",
-        "neo4j"
-      ]
+      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
     },
     {
       "title": "Graduate Student",
@@ -140,12 +138,7 @@
         "Worked with senior engineers to refactor entire legacy codebase from .NET Framework to .NET Core",
         "Collaborated with senior engineers on architecture decisions for the refactor"
       ],
-      "technologies": [
-        "C#",
-        "Azure DevOps",
-        "SQL",
-        ".NET"
-      ]
+      "technologies": ["C#", "Azure DevOps", "SQL", ".NET"]
     },
     {
       "title": "Teaching Assistant for CS 452 Concepts of Database Design",
@@ -158,14 +151,7 @@
         "Assisted students in learning about database design",
         "Created interactive labs to help students learn database systems"
       ],
-      "technologies": [
-        "SQL",
-        "Python",
-        "NoSQL",
-        "MongoDB",
-        "Redis",
-        "neo4j"
-      ]
+      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
     },
     {
       "title": "Bachelor's in Computer Science",
@@ -178,13 +164,7 @@
         "Focus on Machine Learning and Software Engineering",
         "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
       ],
-      "technologies": [
-        "Python",
-        "OpenCV",
-        "React",
-        "TypeScript",
-        "AWS"
-      ]
+      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
     }
   ],
   "social": {
