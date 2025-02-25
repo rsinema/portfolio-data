@@ -61,6 +61,17 @@
         }
       ],
       "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"]
+    },
+    {
+      "title": "Test Project",
+      "description": "This is a test project to show how the portfolio generator works.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "google.com"
+        }
+      ],
+      "skills": ["Test", "Test", "Test", "Test"]
     }
   ],
   "timeline": [
