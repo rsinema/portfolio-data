@@ -1,7 +1,12 @@
 {
   "name": "Riley Sinema",
   "title": "Graduate Student at BYU",
-  "about": "I'm a computer science graduate student at Brigham Young University with a passion for solving complex problems at the intersection of software engineering and artificial intelligence. My academic journey began with a bachelor's in computer science from BYU, where I discovered my fascination with machine learning and its real-world applications.\n\nThroughout my academic and professional experiences, I've developed a versatile skill set spanning full-stack development, data science, and machine learning. I particularly enjoy working on projects that challenge me to think creatively and push the boundaries of what's possible with technology.\n\nCurrently, my research focuses on deep learning calibration methods, where I'm working to improve how models evaluate uncertainty. When I'm not coding or conducting research, I enjoy mentoring fellow students as a teaching assistant for database design courses, helping others navigate the complexities of data systems.\n\nI believe in building technology that solves meaningful problems and enhances human capabilities. My goal is to continue growing as a developer and researcher while contributing to advancements in machine learning and software engineering that make a positive impact.",
+  "about": [
+    "I'm a computer science graduate student at Brigham Young University with a passion for solving complex problems at the intersection of software engineering and artificial intelligence. My academic journey began with a bachelor's in computer science from BYU, where I discovered my fascination with machine learning and its real-world applications.",
+    "Throughout my academic and professional experiences, I've developed a versatile skill set spanning full-stack development, data science, and machine learning. I particularly enjoy working on projects that challenge me to think creatively and push the boundaries of what's possible with technology.",
+    "Currently, my research focuses on deep learning calibration methods, where I'm working to improve how models evaluate uncertainty. When I'm not coding or conducting research, I enjoy mentoring fellow students as a teaching assistant for database design courses, helping others navigate the complexities of data systems.",
+    "I believe in building technology that solves meaningful problems and enhances human capabilities. My goal is to continue growing as a developer and researcher while contributing to advancements in machine learning and software engineering that make a positive impact."
+  ],
   "skills": [
     "Python",
     "C#",
@@ -57,6 +62,7 @@
         "Docker",
         "Natural Language Processing",
         "Vector Databases",
+        "Data Engineering",
         "SQL"
       ]
     },
