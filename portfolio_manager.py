@@ -122,7 +122,8 @@ def add_project(data: Dict[str, Any]) -> Dict[str, Any]:
         "title": input("Project title: "),
         "description": input("Project description: "),
         "links": [],
-        "skills": []
+        "skills": [],
+        "priority": 1
     }
     
     # Add links
@@ -140,6 +141,11 @@ def add_project(data: Dict[str, Any]) -> Dict[str, Any]:
         if not skill:
             break
         new_project["skills"].append(skill)
+
+    print("Enter priority:")
+    priority = input("> ")
+    if priority:
+        new_project["priority"] = int(priority)
     
     projects.append(new_project)
     data['projects'] = projects
