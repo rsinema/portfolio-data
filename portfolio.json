@@ -4,7 +4,7 @@
   "about": [
     "I'm a computer science graduate student at Brigham Young University with a passion for solving complex problems at the intersection of software engineering and artificial intelligence. My academic journey began with a bachelor's in computer science from BYU, where I discovered my fascination with machine learning and its real-world applications.",
     "Throughout my academic and professional experiences, I've developed a versatile skill set spanning full-stack development, data science, and machine learning. I particularly enjoy working on projects that challenge me to think creatively and push the boundaries of what's possible with technology.",
-    "Currently, my research focuses on deep learning calibration methods, where I'm working to improve how models evaluate uncertainty. When I'm not coding or conducting research, I enjoy mentoring fellow students as a teaching assistant for database design courses, helping others navigate the complexities of data systems.",
+    "Currently, my research focuses on deep learning uncertainty quantification, where I'm working to improve how models evaluate uncertainty. When I'm not coding or conducting research, I enjoy mentoring fellow students as a teaching assistant for database design courses, helping others navigate the complexities of data systems.",
     "I believe in building technology that solves meaningful problems and enhances human capabilities. My goal is to continue growing as a developer and researcher while contributing to advancements in machine learning and software engineering that make a positive impact."
   ],
   "skills": [
@@ -46,7 +46,12 @@
           "url": "https://arxiv.org/abs/2405.12412"
         }
       ],
-      "skills": ["Python", "Deep Learning", "Research", "PyTorch"]
+      "skills": [
+        "Python",
+        "Deep Learning",
+        "Research",
+        "PyTorch"
+      ]
     },
     {
       "title": "EBook Vector Database",
@@ -92,7 +97,31 @@
           "url": "https://github.com/rsinema/gym-app"
         }
       ],
-      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"]
+      "skills": [
+        "C#",
+        ".NET",
+        "Blazor",
+        "MongoDB",
+        "DevOps",
+        "Agile"
+      ]
+    },
+    {
+      "title": "Codenames AI Agent",
+      "description": "A creative agent that works as the Spymaster for the game Codenames. Uses a LLM and agentic flow to create a creative and effective clue for its team based on the current game state.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/codenames-ai-client"
+        }
+      ],
+      "skills": [
+        "Computational Creativity",
+        "LLMs",
+        "NLP",
+        "Agentic Flow",
+        "Prompt Engineering"
+      ]
     }
   ],
   "timeline": [
@@ -107,7 +136,14 @@
         "Assisting students in learning about database design",
         "Assisting in teaching database systems"
       ],
-      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+      "technologies": [
+        "SQL",
+        "Python",
+        "NoSQL",
+        "MongoDB",
+        "Redis",
+        "neo4j"
+      ]
     },
     {
       "title": "Graduate Student",
@@ -161,7 +197,14 @@
         "Assisted students in learning about database design",
         "Created interactive labs to help students learn database systems"
       ],
-      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+      "technologies": [
+        "SQL",
+        "Python",
+        "NoSQL",
+        "MongoDB",
+        "Redis",
+        "neo4j"
+      ]
     },
     {
       "title": "Bachelor's in Computer Science",
@@ -174,7 +217,13 @@
         "Focus on Machine Learning and Software Engineering",
         "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
       ],
-      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "React",
+        "TypeScript",
+        "AWS"
+      ]
     }
   ],
   "social": {
