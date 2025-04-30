@@ -46,7 +46,12 @@
           "url": "https://arxiv.org/abs/2405.12412"
         }
       ],
-      "skills": ["Python", "Deep Learning", "Research", "PyTorch"],
+      "skills": [
+        "Python",
+        "Deep Learning",
+        "Research",
+        "PyTorch"
+      ],
       "priority": 1
     },
     {
@@ -95,7 +100,14 @@
           "url": "https://github.com/rsinema/gym-app"
         }
       ],
-      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"],
+      "skills": [
+        "C#",
+        ".NET",
+        "Blazor",
+        "MongoDB",
+        "DevOps",
+        "Agile"
+      ],
       "priority": 4
     },
     {
@@ -115,6 +127,29 @@
         "Prompt Engineering"
       ],
       "priority": 2
+    },
+    {
+      "title": "Training a Bayesian LLM",
+      "description": "Using Bayesian methods to train LLMs that can quantify their uncertainty about their generated outputs.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/llama_bayes"
+        },
+        {
+          "text": "Paper",
+          "url": "https://github.com/rsinema/portfolio-data/blob/main/papers/CS_677_Final_Report.pdf"
+        }
+      ],
+      "skills": [
+        "Deep Learning",
+        "Bayesian Methods",
+        "LLMs",
+        "NLP",
+        "Uncertainty Quantification",
+        "Probabilistic Machine Learning"
+      ],
+      "priority": 2
     }
   ],
   "timeline": [
@@ -129,7 +164,14 @@
         "Assisting students in learning about database design",
         "Assisting in teaching database systems"
       ],
-      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+      "technologies": [
+        "SQL",
+        "Python",
+        "NoSQL",
+        "MongoDB",
+        "Redis",
+        "neo4j"
+      ]
     },
     {
       "title": "Graduate Student",
@@ -183,7 +225,14 @@
         "Assisted students in learning about database design",
         "Created interactive labs to help students learn database systems"
       ],
-      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+      "technologies": [
+        "SQL",
+        "Python",
+        "NoSQL",
+        "MongoDB",
+        "Redis",
+        "neo4j"
+      ]
     },
     {
       "title": "Bachelor's in Computer Science",
@@ -196,7 +245,13 @@
         "Focus on Machine Learning and Software Engineering",
         "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
       ],
-      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "React",
+        "TypeScript",
+        "AWS"
+      ]
     }
   ],
   "social": {
