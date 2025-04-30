@@ -9,28 +9,30 @@
   ],
   "skills": [
     "Python",
-    "C#",
     "Machine Learning",
-    "Software Engineering",
-    "Docker",
+    "Data Science",
+    "MLOps",
+    "Bayesian Methods",
     "NLP",
     "LLMs",
     "Deep Learning",
+    "Computer Vision",
+    "Probabilistic Machine Learning",
     "Research",
+    "C#",
+    "Software Engineering",
+    "AWS",
+    "Docker",
     "SQL",
     "NoSQL",
-    "MLOps",
-    "AWS",
-    "Azure DevOps",
-    "Blazor",
-    "MongoDB",
-    "Redis",
-    "neo4j",
     "React",
     "TypeScript",
-    "Agile",
+    "Blazor",
+    "MongoDB",
     "DevOps",
-    "Computer Vision"
+    "Agile",
+    "Terraform",
+    "Azure DevOps"
   ],
   "projects": [
     {
@@ -46,7 +48,13 @@
           "url": "https://arxiv.org/abs/2405.12412"
         }
       ],
-      "skills": ["Python", "Deep Learning", "Research", "PyTorch"],
+      "skills": [
+        "Python",
+        "Deep Learning",
+        "Probabilistic Machine Learning",
+        "Research",
+        "PyTorch"
+      ],
       "priority": 1
     },
     {
