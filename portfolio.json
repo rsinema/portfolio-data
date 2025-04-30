@@ -150,6 +150,28 @@
         "Probabilistic Machine Learning"
       ],
       "priority": 2
+    },
+    {
+      "title": "Creative Photography Assistant System",
+      "description": "A creative system that takes as input a picture that was taken by the user, and then evaluates the aesthetic value of the picture, finds some transformations that improve the aesthetic quality of the image, and then explains to the user how they can change how they take the picture to increase the aesthetic quality of their photos.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/CS_673_photograph_optimization_framework"
+        },
+        {
+          "text": "Paper",
+          "url": "https://github.com/rsinema/portfolio-data/blob/main/papers/673_Final_Paper.pdf"
+        }
+      ],
+      "skills": [
+        "Computational Creativity",
+        "Deep Learning",
+        "Computer Vision",
+        "Optimization Methods",
+        "PyTorch"
+      ],
+      "priority": 2
     }
   ],
   "timeline": [
