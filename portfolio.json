@@ -103,7 +103,14 @@
           "url": "https://github.com/rsinema/gym-app"
         }
       ],
-      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"],
+      "skills": [
+        "C#",
+        ".NET",
+        "Blazor",
+        "MongoDB",
+        "DevOps",
+        "Agile"
+      ],
       "priority": 10
     },
     {
@@ -168,6 +175,22 @@
         "PyTorch"
       ],
       "priority": 2
+    },
+    {
+      "title": "AWS Cloud Server Using Terraform",
+      "description": "Designing a cost-effective and secure cloud hosted game server. Architecture includes EC2 instance, proper network security configurations, Lambda function to start/stop/check status of server, etc., all set up and versioned using Terraform for Infrastructure as Code (IaC).",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/mc-server-iac"
+        }
+      ],
+      "skills": [
+        "Terraform",
+        "DevOps",
+        "AWS"
+      ],
+      "priority": 8
     }
   ],
   "timeline": [
@@ -182,7 +205,14 @@
         "Assisting students in learning about database design",
         "Assisting in teaching database systems"
       ],
-      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+      "technologies": [
+        "SQL",
+        "Python",
+        "NoSQL",
+        "MongoDB",
+        "Redis",
+        "neo4j"
+      ]
     },
     {
       "title": "Graduate Student",
@@ -236,7 +266,14 @@
         "Assisted students in learning about database design",
         "Created interactive labs to help students learn database systems"
       ],
-      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
+      "technologies": [
+        "SQL",
+        "Python",
+        "NoSQL",
+        "MongoDB",
+        "Redis",
+        "neo4j"
+      ]
     },
     {
       "title": "Bachelor's in Computer Science",
@@ -249,7 +286,13 @@
         "Focus on Machine Learning and Software Engineering",
         "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
       ],
-      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "React",
+        "TypeScript",
+        "AWS"
+      ]
     }
   ],
   "social": {
