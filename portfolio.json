@@ -293,6 +293,29 @@
         "TypeScript",
         "AWS"
       ]
+    },
+    {
+      "title": "Software/AI Engineer",
+      "organization": "Enzy",
+      "location": "Lehi, UT",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "type": "work",
+      "description": [
+        "Architecting and designing machine learning and AI features for platform",
+        "Implementing data pipelines in AWS",
+        "Scaling features and pipelines for large amounts of users and data"
+      ],
+      "technologies": [
+        "Python",
+        "LLMs",
+        "Machine Learning",
+        "MLOps",
+        "Data Engineering",
+        "AWS",
+        "NLP",
+        "Agents"
+      ]
     }
   ],
   "social": {
