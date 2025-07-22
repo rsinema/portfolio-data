@@ -103,14 +103,7 @@
           "url": "https://github.com/rsinema/gym-app"
         }
       ],
-      "skills": [
-        "C#",
-        ".NET",
-        "Blazor",
-        "MongoDB",
-        "DevOps",
-        "Agile"
-      ],
+      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"],
       "priority": 10
     },
     {
@@ -185,11 +178,7 @@
           "url": "https://github.com/rsinema/mc-server-iac"
         }
       ],
-      "skills": [
-        "Terraform",
-        "DevOps",
-        "AWS"
-      ],
+      "skills": ["Terraform", "DevOps", "AWS"],
       "priority": 8
     }
   ],
@@ -199,20 +188,13 @@
       "organization": "Brigham Young University",
       "location": "Provo, UT",
       "startDate": "September 2024",
-      "endDate": "Present",
+      "endDate": "May 2025",
       "type": "work",
       "description": [
         "Assisting students in learning about database design",
         "Assisting in teaching database systems"
       ],
-      "technologies": [
-        "SQL",
-        "Python",
-        "NoSQL",
-        "MongoDB",
-        "Redis",
-        "neo4j"
-      ]
+      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
     },
     {
       "title": "Graduate Student",
@@ -266,33 +248,20 @@
         "Assisted students in learning about database design",
         "Created interactive labs to help students learn database systems"
       ],
-      "technologies": [
-        "SQL",
-        "Python",
-        "NoSQL",
-        "MongoDB",
-        "Redis",
-        "neo4j"
-      ]
+      "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
     },
     {
       "title": "Bachelor's in Computer Science",
       "organization": "Brigham Young University",
       "location": "Provo, UT",
-      "startDate": "2020",
-      "endDate": "2024",
+      "startDate": "August 2020",
+      "endDate": "April 2024",
       "type": "education",
       "description": [
         "Focus on Machine Learning and Software Engineering",
         "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
       ],
-      "technologies": [
-        "Python",
-        "OpenCV",
-        "React",
-        "TypeScript",
-        "AWS"
-      ]
+      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
     },
     {
       "title": "Software/AI Engineer",
