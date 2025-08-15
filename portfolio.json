@@ -15,6 +15,7 @@
     "Bayesian Methods",
     "NLP",
     "LLMs",
+    "Agents",
     "Deep Learning",
     "Computer Vision",
     "Probabilistic Machine Learning",
@@ -205,7 +206,7 @@
       "type": "education",
       "description": [
         "Conducting research in deep learning calibration and uncertainty estimation",
-        "Relevant coursework: Natural Language Processing, Adv Software Engineering"
+        "Relevant coursework: Natural Language Processing, Adv Software Engineering, Probabilistic Deep Learning"
       ],
       "technologies": [
         "Python",
@@ -273,7 +274,8 @@
       "description": [
         "Architecting and designing machine learning and AI features for platform",
         "Implementing data pipelines in AWS",
-        "Scaling features and pipelines for large amounts of users and data"
+        "Scaling features and pipelines for large amounts of users and data",
+        "Developing agentic systems using LLMs to enhance internal workflows"
       ],
       "technologies": [
         "Python",
