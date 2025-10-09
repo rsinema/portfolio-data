@@ -272,10 +272,10 @@
       "endDate": "Present",
       "type": "work",
       "description": [
+        "Developing LLM features with whole LLMOps lifecycle (data engineering, model fine-tuning, evaluation, deployment, monitoring)",
         "Architecting and designing machine learning and AI features for platform",
-        "Implementing data pipelines in AWS",
-        "Scaling features and pipelines for large amounts of users and data",
-        "Developing agentic systems using LLMs to enhance internal workflows"
+        "Implementing data pipelines in AWS Glue to support ML features",
+        "Scaling features and pipelines for large amounts of users and data"
       ],
       "technologies": [
         "Python",
