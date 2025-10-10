@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Deep Learning",
+    "url": "https://www.deeplearningbook.org/",
+    "description": "Comprehensive textbook covering the foundations of deep learning, from basic concepts to advanced architectures. Essential reading for understanding modern neural networks.",
+    "type": "Book"
+  },
+  {
+    "title": "Attention Is All You Need",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "description": "The groundbreaking paper that introduced the Transformer architecture, revolutionizing NLP and leading to models like GPT and BERT.",
+    "type": "Paper"
+  },
+  {
+    "title": "Fast.ai Practical Deep Learning for Coders",
+    "url": "https://course.fast.ai/",
+    "description": "Hands-on course that teaches deep learning through practical projects and real-world applications. Great for learning by doing.",
+    "type": "Course"
+  },
+  {
+    "title": "The Illustrated Transformer",
+    "url": "https://jalammar.github.io/illustrated-transformer/",
+    "description": "Visual guide that breaks down the Transformer architecture with clear diagrams and explanations. Perfect for understanding self-attention mechanisms.",
+    "type": "Article"
+  },
+  {
+    "title": "Probabilistic Machine Learning: An Introduction",
+    "url": "https://probml.github.io/pml-book/book1.html",
+    "description": "Modern textbook covering probabilistic approaches to machine learning, including Bayesian methods and uncertainty quantification.",
+    "type": "Book"
+  },
+  {
+    "title": "On Calibration of Modern Neural Networks",
+    "url": "https://arxiv.org/abs/1706.04599",
+    "description": "Influential paper on neural network calibration, showing that modern networks are poorly calibrated and proposing temperature scaling as a solution.",
+    "type": "Paper"
+  },
+  {
+    "title": "Stanford CS224N: NLP with Deep Learning",
+    "url": "https://web.stanford.edu/class/cs224n/",
+    "description": "Comprehensive course covering neural approaches to NLP, from word embeddings to large language models.",
+    "type": "Course"
+  },
+  {
+    "title": "Understanding LSTM Networks",
+    "url": "https://colah.github.io/posts/2015-08-Understanding-LSTMs/",
+    "description": "Classic article explaining how LSTM networks work with intuitive visualizations. A must-read for understanding recurrent architectures.",
+    "type": "Article"
+  }
+]
