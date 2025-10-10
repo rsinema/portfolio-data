@@ -46,5 +46,11 @@
     "url": "https://colah.github.io/posts/2015-08-Understanding-LSTMs/",
     "description": "Classic article explaining how LSTM networks work with intuitive visualizations. A must-read for understanding recurrent architectures.",
     "type": "Article"
+  },
+  {
+    "title": "Dummy Repo",
+    "url": "https://example.com",
+    "description": "This is a placeholder entry for testing purposes.",
+    "type": "GitHub"
   }
 ]
