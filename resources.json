@@ -12,21 +12,45 @@
     "type": "Article"
   },
   {
-    "title": "Lightweight Self-Hosted Server Monitoring Tool",
-    "url": "https://github.com/henrygd/beszel",
-    "description": "A simple and user-friendly tool for monitoring server health and usage metrics.",
-    "type": "GitHub"
+    "title": "Simple Framework for Contrastive Learning of Visual Representations",
+    "url": "https://arxiv.org/abs/2002.05709",
+    "description": "Incredibly well-written paper about a simple and high-performing framework for contrastive learning of visual representations.",
+    "type": "Paper"
+  },
+  {
+    "title": "LLM Engineer's Handbook",
+    "url": "https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/",
+    "description": "Comprehensive guide for engineers working with large language models, covering best practices and implementation strategies.",
+    "type": "Book"
   },
   {
     "title": "Bayesian Optimization in Action",
     "url": "https://www.manning.com/books/bayesian-optimization-in-action",
-    "description": "A practical introduction to Bayesian optimization techniques.",
+    "description": "Easy to follow and practical introduction to Bayesian optimization techniques.",
     "type": "Book"
+  },
+  {
+    "title": "Opinionated Arch Linux Setup",
+    "url": "https://omarchy.org",
+    "description": "Arch Linux distribution built for devs, without the headache of setting up Arch yourself. A curated Arch Linux setup with a focus on simplicity and developer productivity.",
+    "type": "Article"
   },
   {
     "title": "Learn Docker in a Month of Lunches",
     "url": "https://www.manning.com/books/learn-docker-in-a-month-of-lunches",
     "description": "A great hands-on guide to learning Docker through practical examples.",
     "type": "Book"
+  },
+  {
+    "title": "Lightweight Self-Hosted Server Monitoring Tool",
+    "url": "https://github.com/henrygd/beszel",
+    "description": "A simple and user-friendly tool for monitoring server health and usage metrics.",
+    "type": "GitHub"
+  },
+  {
+    "title": "Self-Hosted Budgeting and Financial Management Tool",
+    "url": "https://github.com/actualbudget/actual",
+    "description": "A personal finance manager that you can host yourself, offering budgeting and expense tracking features.",
+    "type": "GitHub"
   }
 ]
