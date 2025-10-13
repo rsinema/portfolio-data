@@ -18,6 +18,12 @@
     "type": "Paper"
   },
   {
+    "title": "Call for Bayesian Deep Learning in Age of Large Scale AI",
+    "url": "https://arxiv.org/abs/2402.00809",
+    "description": "A compelling argument for integrating Bayesian methods into large-scale AI systems to enhance uncertainty estimation and robustness.",
+    "type": "Paper"
+  },
+  {
     "title": "LLM Engineer's Handbook",
     "url": "https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/",
     "description": "Comprehensive guide for engineers working with large language models, covering best practices and implementation strategies.",
@@ -27,6 +33,12 @@
     "title": "Bayesian Optimization in Action",
     "url": "https://www.manning.com/books/bayesian-optimization-in-action",
     "description": "Easy to follow and practical introduction to Bayesian optimization techniques.",
+    "type": "Book"
+  },
+  {
+    "title": "Learning LangChain",
+    "url": "https://www.oreilly.com/library/view/learning-langchain/9781098167271/",
+    "description": "A practical guide to understanding and using LangChain for building applications with large language models.",
     "type": "Book"
   },
   {
