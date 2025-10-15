@@ -30,6 +30,12 @@
     "type": "Book"
   },
   {
+    "title": "Interactive Transformer Visualization",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "description": "An interactive tool to visualize and understand the inner workings of transformer models.",
+    "type": "Article"
+  },
+  {
     "title": "Bayesian Optimization in Action",
     "url": "https://www.manning.com/books/bayesian-optimization-in-action",
     "description": "Easy to follow and practical introduction to Bayesian optimization techniques.",
