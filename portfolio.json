@@ -206,7 +206,7 @@
       "type": "education",
       "description": [
         "Conducting research in deep learning calibration and uncertainty estimation",
-        "Relevant coursework: Natural Language Processing, Adv Software Engineering, Probabilistic Deep Learning"
+        "Relevant coursework: Natural Language Processing, Adv Software Engineering, Probabilistic Deep Learning, MLOps, Adv Deep Learning"
       ],
       "technologies": [
         "Python",
@@ -229,13 +229,13 @@
         "Collaborated with senior engineers on architecture decisions for the refactor"
       ],
       "technologies": [
+        "Software Engineering",
         "C#",
         "Azure DevOps",
         "SQL",
         ".NET",
         "Agile",
-        "DevOps",
-        "Software Engineering"
+        "DevOps"
       ]
     },
     {
@@ -262,7 +262,16 @@
         "Focus on Machine Learning and Software Engineering",
         "Relevant coursework: Deep Learning, Database Design, Computer Vision, Adv Algorithms, Software Engineering, Computer Security"
       ],
-      "technologies": ["Python", "OpenCV", "React", "TypeScript", "AWS"]
+      "technologies": [
+        "Algorithm Design/Analysis",
+        "Software Engineering",
+        "Machine Learning",
+        "Python",
+        "OpenCV",
+        "React",
+        "TypeScript",
+        "AWS"
+      ]
     },
     {
       "title": "Software/AI Engineer",
