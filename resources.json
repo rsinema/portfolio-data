@@ -12,6 +12,12 @@
     "type": "Article"
   },
   {
+    "title": "Open-Source Library for LLM Fine-Tuning",
+    "url": "https://docs.axolotl.ai/",
+    "description": "A user-friendly library for fine-tuning large language models with support for various architectures and datasets.",
+    "type": "GitHub"
+  },
+  {
     "title": "Simple Framework for Contrastive Learning of Visual Representations",
     "url": "https://arxiv.org/abs/2002.05709",
     "description": "Incredibly well-written paper about a simple and high-performing framework for contrastive learning of visual representations.",
@@ -22,6 +28,12 @@
     "url": "https://arxiv.org/abs/2402.00809",
     "description": "A compelling argument for integrating Bayesian methods into large-scale AI systems to enhance uncertainty estimation and robustness.",
     "type": "Paper"
+  },
+  {
+    "title": "Open-Source Bayesian Deep Learning Library",
+    "url": "https://github.com/normal-computing/posteriors",
+    "description": "A library providing tools for implementing Bayesian deep learning techniques in modern neural networks.",
+    "type": "GitHub"
   },
   {
     "title": "LLM Engineer's Handbook",
