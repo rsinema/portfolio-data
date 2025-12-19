@@ -13,7 +13,7 @@
   },
   {
     "title": "Open-Source Library for LLM Fine-Tuning",
-    "url": "https://docs.axolotl.ai/",
+    "url": "https://docs.unsloth.ai",
     "description": "A user-friendly library for fine-tuning large language models with support for various architectures and datasets.",
     "type": "GitHub"
   },
