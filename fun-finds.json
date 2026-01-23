@@ -4,5 +4,41 @@
         "url": "https://everynoise.com/",
         "description": "Fun data focused music discovery tool.",
         "type": "Website"
+    },
+    {
+        "title": "CreepyLink",
+        "url": "https://creepylink.com",
+        "description": "Make urls look super sketchy.",
+        "type": "Website"
+    },
+    {
+        "title": "MonkeyType",
+        "url": "https://monkeytype.com",
+        "description": "The best typing test website.",
+        "type": "Website"
+    },
+    {
+        "title": "Learn Music Coding in Strudel",
+        "url": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
+        "description": "A tutorial on using Strudel to make some music and learn a little music theory.",
+        "type": "Website"
+    },
+    {
+        "title": "Book Recommender",
+        "url": "https://book.sv",
+        "description": "Book recommender that has data scrapped from Goodreads and uses a ML model to make recommendations.",
+        "type": "Website"
+    },
+    {
+        "title": "Free Woodworking Plans",
+        "url": "https://learn.kregtool.com/projects-plans/",
+        "description": "Free woodworking plans for all skill levels.",
+        "type": "Website"
+    },
+    {
+        "title": "Learn Anything",
+        "url": "https://learn-anything.xyz",
+        "description": "Website with resources to help you learn anything.",
+        "type": "Website"
     }
 ]
