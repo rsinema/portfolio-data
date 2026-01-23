@@ -54,6 +54,12 @@
     "type": "Book"
   },
   {
+    "title": "CLI Tool for Cleaning Up Your Mac",
+    "url": "https://github.com/tw93/Mole",
+    "description": "Extremely useful and user friendly CLI tool for cleaning up your Mac.",
+    "type": "GitHub"
+  },
+  {
     "title": "Learning LangChain",
     "url": "https://www.oreilly.com/library/view/learning-langchain/9781098167271/",
     "description": "A practical guide to understanding and using LangChain for building applications with large language models.",

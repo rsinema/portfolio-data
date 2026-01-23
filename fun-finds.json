@@ -40,5 +40,17 @@
         "url": "https://learn-anything.xyz",
         "description": "Website with resources to help you learn anything.",
         "type": "Website"
+    },
+    {
+        "title": "Print Your Own Medium Format Camera",
+        "url": "https://github.com/acornelissen/IDENTIDEM.design-MRF2",
+        "description": "Print your own medium format camera, fab your own chip, and build your own camera.",
+        "type": "GitHub"
+    },
+    {
+        "title": "Doom PDF",
+        "url": "https://github.com/ading2210/doompdf",
+        "description": "Run Doom in a PDF file.",
+        "type": "GitHub"
     }
 ]
