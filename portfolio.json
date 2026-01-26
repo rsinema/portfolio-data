@@ -2,10 +2,10 @@
   "name": "Riley Sinema",
   "title": "Graduate Student at BYU",
   "about": [
-    "I'm a computer science graduate student at Brigham Young University with a passion for solving complex problems at the intersection of software engineering and artificial intelligence. My academic journey began with a bachelor's in computer science from BYU, where I discovered my fascination with machine learning and its real-world applications.",
-    "Throughout my academic and professional experiences, I've developed a versatile skill set spanning full-stack development, data science, and machine learning. I particularly enjoy working on projects that challenge me to think creatively and push the boundaries of what's possible with technology.",
-    "Currently, my research focuses on deep learning uncertainty quantification, where I'm working to improve how models evaluate uncertainty. When I'm not coding or conducting research, I enjoy mentoring fellow students as a teaching assistant for database design courses, helping others navigate the complexities of data systems.",
-    "I believe in building technology that solves meaningful problems and enhances human capabilities. My goal is to continue growing as a developer and researcher while contributing to advancements in machine learning and software engineering that make a positive impact."
+    "I'm a computer science graduate student at Brigham Young University finishing up my Master's degree. I'm passionate about building practical AI systems and solving challenging technical problems.",
+    "My background spans software engineering, machine learning, and data science. I've worked on everything from full-stack applications to deep learning research, and I enjoy projects that push me to learn new approaches and technologies.",
+    "My recent work has focused on designing and implementing enterprise-grade Text-to-SQL systems. I'm particularly interested in how we can make AI systems more reliable and useful in real-world applications.",
+    "I love staying current with new research and technologies in the ML/AI space. Whether it's reading papers, experimenting with new tools, or diving into emerging frameworks, I'm always learning something new. My goal is to build AI systems that actually solve meaningful problems and make people's work easier."
   ],
   "skills": [
     "Python",
