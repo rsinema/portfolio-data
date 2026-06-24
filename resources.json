@@ -6,12 +6,6 @@
     "type": "Book"
   },
   {
-    "title": "TheBatch: Andrew Ng's Deep Learning Newsletter",
-    "url": "https://www.deeplearning.ai/the-batch/",
-    "description": "Weekly newsletter providing updates on the latest research, trends, and applications in deep learning.",
-    "type": "Article"
-  },
-  {
     "title": "Open-Source Library for LLM Fine-Tuning",
     "url": "https://docs.unsloth.ai",
     "description": "A user-friendly library for fine-tuning large language models with support for various architectures and datasets.",
@@ -84,9 +78,9 @@
     "type": "GitHub"
   },
   {
-    "title": "Self-Hosted Budgeting and Financial Management Tool",
-    "url": "https://github.com/actualbudget/actual",
-    "description": "A personal finance manager that you can host yourself, offering budgeting and expense tracking features.",
-    "type": "GitHub"
+    "title": "Gemma 4 12B Coder (GGUF)",
+    "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+    "description": "A fine-tune of Google's Gemma 4 12B specialized for Python coding, trained on verified chain-of-thought data (only solutions that passed the task's tests were kept). Distributed in GGUF quantizations (2-bit to 8-bit) with a 256K context window for efficient local deployment.",
+    "type": "Model"
   }
 ]
