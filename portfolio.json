@@ -1,10 +1,10 @@
 {
   "name": "Riley Sinema",
-  "title": "Graduate Student at BYU",
+  "title": "Software/AI Engineer at Enzy",
   "about": [
-    "I'm a computer science graduate student at Brigham Young University finishing up my Master's degree. I'm passionate about building practical AI systems and solving challenging technical problems.",
+    "I'm a Software/AI Engineer at Enzy, where I build practical AI systems and solve challenging technical problems. I recently earned my Master's degree in Computer Science from Brigham Young University.",
     "My background spans software engineering, machine learning, and data science. I've worked on everything from full-stack applications to deep learning research, and I enjoy projects that push me to learn new approaches and technologies.",
-    "My recent work has focused on designing and implementing enterprise-grade Text-to-SQL systems. I'm particularly interested in how we can make AI systems more reliable and useful in real-world applications.",
+    "My recent work has focused on building evaluation suites for agent systems and practicing evaluation-driven development for agents. I'm particularly interested in how we can make AI systems more reliable, measurable, and useful in real-world applications.",
     "I love staying current with new research and technologies in the ML/AI space. Whether it's reading papers, experimenting with new tools, or diving into emerging frameworks, I'm always learning something new. My goal is to build AI systems that actually solve meaningful problems and make people's work easier."
   ],
   "skills": [
@@ -17,8 +17,10 @@
     "LLMs",
     "LLMOps",
     "Model Fine-Tuning",
-    "Natural Language Processing",
     "Agents",
+    "Agent Evaluation",
+    "Evaluation-Driven Development",
+    "Agentic Systems",
     "Deep Learning",
     "Computer Vision",
     "Probabilistic Machine Learning",
@@ -42,8 +44,8 @@
   ],
   "projects": [
     {
-      "title": "Researching Deep Learning Calibration",
-      "description": "Creating a new calibration method for deep learning models that is able to evaluate uncertainty on a per instance basis.",
+      "title": "Deep Learning Calibration Research",
+      "description": "Developed a new calibration method for deep learning models that evaluates uncertainty on a per-instance basis. Published at ECAI 2025.",
       "links": [
         {
           "text": "GitHub",
@@ -79,7 +81,7 @@
       "skills": [
         "Python",
         "Docker",
-        "Natural Language Processing",
+        "NLP",
         "Vector Databases",
         "Data Engineering",
         "SQL"
@@ -96,7 +98,7 @@
         }
       ],
       "skills": [
-        "Natural Language Processing",
+        "NLP",
         "LLMs",
         "RAG",
         "Python",
@@ -207,22 +209,22 @@
       "technologies": ["SQL", "Python", "NoSQL", "MongoDB", "Redis", "neo4j"]
     },
     {
-      "title": "Graduate Student",
+      "title": "Master's in Computer Science",
       "organization": "Brigham Young University",
       "location": "Provo, UT",
-      "startDate": "2024",
-      "endDate": "Present",
+      "startDate": "September 2024",
+      "endDate": "April 2026",
       "type": "education",
       "description": [
-        "Conducting research in deep learning calibration, uncertainty estimation, and generative models",
-        "My current project involves developing a robust enterprise-grade Text-to-SQL system that leverages large language models to convert natural language queries into optimized SQL commands for complex databases.",
+        "Conducted research in deep learning calibration, uncertainty estimation, and generative models",
+        "Built a robust enterprise-grade Text-to-SQL system that leverages large language models to convert natural language queries into optimized SQL commands for complex databases.",
         "Relevant coursework: Natural Language Processing, Adv Software Engineering, Probabilistic Deep Learning, MLOps, Adv Deep Learning"
       ],
       "technologies": [
         "Python",
         "LLMs",
         "Model Fine-Tuning",
-        "Natural Language Processing",
+        "NLP",
         "PyTorch",
         "Deep Learning",
         "Research"
@@ -293,6 +295,7 @@
       "type": "work",
       "description": [
         "Developing LLM features with whole LLMOps lifecycle (data engineering, model fine-tuning, evaluation, deployment, monitoring)",
+        "Building evaluation suites for agent systems and practicing evaluation-driven development for agents",
         "Architecting and designing machine learning and AI features for platform",
         "Implementing data pipelines in AWS Glue to support ML features",
         "Scaling features and pipelines for large amounts of users and data"
@@ -302,16 +305,18 @@
         "LLMs",
         "Machine Learning",
         "MLOps",
+        "Agents",
+        "Agent Evaluation",
+        "Evaluation-Driven Development",
         "Data Engineering",
         "AWS",
-        "NLP",
-        "Agents"
+        "NLP"
       ]
     }
   ],
   "social": {
     "github": "https://github.com/rsinema",
     "linkedin": "https://linkedin.com/in/rileysinema",
-    "email": "rsinema@byu.edu"
+    "email": "rileysinema@duck.com"
   }
 }
