@@ -143,6 +143,63 @@
       ],
       "skills": ["Terraform", "DevOps", "AWS"],
       "priority": 8
+    },
+    {
+      "title": "LLM Creativity Metrics Comparison",
+      "description": "CS 501R final project comparing NoveltyBench's diversity metrics against simpler alternatives (pairwise embedding distance, n-gram diversity, BERTScore), correlated with human judgment. Generates k responses per prompt across multiple LLMs and scores them for both diversity and quality using an LLM-as-judge.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/creativity-metrics"
+        }
+      ],
+      "skills": [
+        "Python",
+        "LLMs",
+        "Evaluation",
+        "LLM-as-Judge",
+        "NLP",
+        "Computational Creativity"
+      ],
+      "priority": 2
+    },
+    {
+      "title": "Brick Mosaic Generator",
+      "description": "A self-hosted web app that turns an album's cover art into a buildable 1x1-plate brick mosaic, emitting a per-color parts list and printable build map for ordering. Features a configurable image pipeline with gamma-correct downsampling, dithering options, and ΔE2000 color matching.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/brick-mosaic"
+        }
+      ],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Bun",
+        "SQLite",
+        "Image Processing",
+        "Full-Stack"
+      ],
+      "priority": 5
+    },
+    {
+      "title": "Social Network Community Detection",
+      "description": "Social network analysis of a university course interaction graph. Computes centrality metrics, detects communities with multiple algorithms (Louvain, Newman, spectral, and normalized Laplacian), performs one-mode projection, and simulates complex contagion across the network.",
+      "links": [
+        {
+          "text": "GitHub",
+          "url": "https://github.com/rsinema/social-network-community-detection"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Network Science",
+        "Graph Analysis",
+        "Community Detection",
+        "Jupyter",
+        "Data Science"
+      ],
+      "priority": 4
     }
   ],
   "timeline": [
