@@ -70,55 +70,6 @@
       "priority": 1
     },
     {
-      "title": "EBook Vector Database",
-      "description": "A vector database that allows me to query all the eBooks on my machine based on a natural language query.",
-      "links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/rsinema/sentence-transformer-lab"
-        }
-      ],
-      "skills": [
-        "Python",
-        "Docker",
-        "NLP",
-        "Vector Databases",
-        "Data Engineering",
-        "SQL"
-      ],
-      "priority": 4
-    },
-    {
-      "title": "Personalized RAG Chatbot",
-      "description": "A RAG chatbot that is able to answer questions about me based on data from my resume, projects, transcripts, and other sources.",
-      "links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/rsinema/nlp-final-project"
-        }
-      ],
-      "skills": [
-        "NLP",
-        "LLMs",
-        "RAG",
-        "Python",
-        "Docker"
-      ],
-      "priority": 3
-    },
-    {
-      "title": "Gym Tracker Web App",
-      "description": "Group project lead by me to create a web app that allows users to track their gym progress and create custom workout plans.",
-      "links": [
-        {
-          "text": "GitHub",
-          "url": "https://github.com/rsinema/gym-app"
-        }
-      ],
-      "skills": ["C#", ".NET", "Blazor", "MongoDB", "DevOps", "Agile"],
-      "priority": 10
-    },
-    {
       "title": "Codenames AI Agent",
       "description": "A creative agent that works as the Spymaster for the game Codenames. Uses a LLM and agentic flow to create a creative and effective clue for its team based on the current game state.",
       "links": [
