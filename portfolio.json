@@ -8,47 +8,52 @@
     "I love staying current with new research and technologies in the ML/AI space. Whether it's reading papers, experimenting with new tools, or diving into emerging frameworks, I'm always learning something new. My goal is to build AI systems that actually solve meaningful problems and make people's work easier."
   ],
   "skills": [
-    "Python",
-    "Machine Learning",
-    "Data Science",
-    "MLOps",
-    "Bayesian Methods",
-    "NLP",
-    "LLMs",
-    "RAG",
-    "LangChain/LangGraph",
-    "LangSmith",
-    "Hugging Face",
-    "LLMOps",
-    "LoRA/QLoRA Fine-Tuning",
-    "Agents",
-    "Agent Evaluation",
-    "Evaluation-Driven Development",
-    "Agentic Systems",
-    "Deep Learning",
-    "PyTorch",
-    "Computer Vision",
-    "Probabilistic Machine Learning",
-    "Research",
-    "Computational Creativity",
-    "git",
-    "C#",
-    "Software Engineering",
-    "AWS",
-    "Docker",
-    "SQL",
-    "MySQL",
-    "PostgreSQL",
-    "Redis",
-    "NoSQL",
-    "React",
-    "TypeScript",
-    "Blazor",
-    "MongoDB",
-    "DevOps",
-    "Agile",
-    "Terraform",
-    "Azure DevOps"
+    {
+      "category": "AI & Agents",
+      "items": [
+        "Python",
+        "LLMs",
+        "RAG",
+        "LangChain/LangGraph",
+        "LangSmith",
+        "Agents",
+        "Agent Evaluation",
+        "Evaluation-Driven Development",
+        "LoRA/QLoRA Fine-Tuning",
+        "Hugging Face"
+      ]
+    },
+    {
+      "category": "ML & Research",
+      "items": [
+        "PyTorch",
+        "NLP",
+        "Deep Learning",
+        "Machine Learning",
+        "Data Science",
+        "Bayesian Methods",
+        "Probabilistic Machine Learning",
+        "Computer Vision",
+        "Computational Creativity"
+      ]
+    },
+    {
+      "category": "Data",
+      "items": ["SQL", "MySQL", "PostgreSQL", "MongoDB", "Redis", "NoSQL"]
+    },
+    {
+      "category": "Infrastructure & Tooling",
+      "items": [
+        "AWS",
+        "Docker",
+        "DevOps",
+        "OpenTofu",
+        "Linux",
+        "Bash",
+        "Git",
+        "Java"
+      ]
+    }
   ],
   "projects": [
     {
